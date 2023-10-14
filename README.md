@@ -13,12 +13,19 @@ Dataset link: https://drive.google.com/file/d/1nm5ZLXBrCRgNArklnnBOAVyR6l6kxayh/
 The data is available in 8 .csv files:
 
 customers.csv
+
 sellers.csv
+
 order_items.csv
+
 geolocation.csv
+
 payments.csv
+
 reviews.csv
+
 orders.csv
+
 products.csv
 
 ## Problem Statement:

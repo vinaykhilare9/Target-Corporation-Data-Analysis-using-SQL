@@ -47,7 +47,7 @@ customers with the highest amount of orders placed.
 ## Recommendations:
 
 1. Target can reduce delivery time in the states where delivery time is higher than
-estimated delivery time and improve user experience.
+estimated delivery time and improved user experience.
 
 2. Target can reduce freight charges in the state where freight is higher than average freight
 charges.
